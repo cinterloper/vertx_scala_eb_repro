@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="scala_eb_repro,scala_eb_repro.engine,trading_engine,trading_engine.engine" />
+  </component>
+</project>
